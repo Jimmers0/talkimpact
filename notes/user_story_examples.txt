@@ -2,6 +2,84 @@ As a ______ I want ______ so that ______
 
 
 
-As as user I want an area page that will show messages so that I can see the messages that are sent to whatever room I'm in.
+As a user I want an area page that will show messages so that I can see the messages that are sent to whatever room I'm in.
 
 As a user I want to be able to see all of the rooms that I'm participating in.
+
+As a user I want to see the time I send and recieve messages.
+
+As a user I want to to be able to message another user a private direct message.
+
+As a user I want to be able to have different places to chat with other users.
+
+As a user I want to have the ability to know when other users are online.
+
+As a user I want to be able to use emojis in chats.
+
+As a user I want the ability to pin a conversation to quickly come back to it.
+
+As a user I want feedback when I do certian things like sending a message or deleting a message.
+
+As a user I want the ability to join a group and message all the users in that group.
+
+As a user when I recieve a link I want to have a preview of that link.
+
+As a user I want to have command line operations to use the program more effiently.
+
+As a user I want to be able to format messages to fit my personal needs.
+
+As a user I want to know if a another user read my sent message.
+
+As I user I want to have a personal profile to have my own identity with a profile picture.
+
+As a user I want a list where I can see all of my contacts.
+ 
+As a user I want to add other users to a friends list.
+
+As a user I want to have the ability to remove users off my frineds list.
+
+As a user I want to have the ability to block other users so I cannot revieve anymore messages.
+
+As a user I want to recieve notifications so I know that I recieved a message.
+
+As a user I want to be able to search for users or search through messages so I can find meaages and other users.
+
+As a user I want to register and sign up so I can log in and log out to return to my personal messages.
+
+As a user I want a password for my account so other users cannot access it. 
+
+As a user I want to add gifs so I can send them to other users.
+
+As a user I want to link my profile with other social media so I can be connected.
+
+Ice box
+
+As a user I want a chat bot to help me through messaging. 
+
+As a user I want a area I can go so send money to other users.
+
+As a user I want to draw pictures so I can send my drawings to other users.
+
+As a user I want to have temporary messages so they can disappear after a set time.
+
+As a user I want an area I can go to order a pizza.
+
+As a user I want to have a place where I can book a hotel room. 
+
+As I user I want video filters so i can put filers on my face.
+
+As a user I want to let other users that 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

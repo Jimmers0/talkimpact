@@ -20,10 +20,13 @@ search bar
 group messaging
 registration / sign up
 mobile version
-log in
-log out
-profile with social links
+
+
 change your password
 forgot password
 send gifs
 push notifications
+
+log in
+log out
+profile with social links
