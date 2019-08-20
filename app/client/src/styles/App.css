@@ -1,2 +1,139 @@
 html {box-sizing:border-box;}
 *, *::before, *::after {box-sizing:inherit;}
+
+body {
+    background-image: linear-gradient(to bottom right, rgb(156, 210, 244), white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.logincontainer{
+    margin: auto;
+    width: 600px;
+    text-align: center;
+    height: 500px;
+    background-image: linear-gradient(lightgray, white);
+    border: 4px solid lightgrey;
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px rgb(4, 4, 69);
+    margin-top: 50px;
+}
+
+.loginform{
+    margin-top: 60px;
+}
+
+.logintitle{
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+
+}
+
+.logininput{
+    margin-top: 30px;
+    height: 40px;
+    width: 300px;;
+    border: 1px solid darkgrey;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    outline: none;
+}
+
+.logininput::placeholder{
+    padding-left: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.loginsubmit {
+    margin-top: 30px;
+    background: rgb(156, 210, 244);
+    border: 1px solid darkgrey;
+    border-radius: 10px;
+    height: 40px;
+    font-size: 20px;
+    color: black;
+    width: 200px;
+}
+
+.loginsubmit:hover {
+    margin-top: 30px;
+    background: white;
+    border: 1px solid darkgrey;
+    border-radius: 10px;
+    height: 40px;
+    font-size: 20px;
+    color: black;
+    width: 200px;
+}
+
+.messagescontainer{
+    width: 500px;
+    margin: auto;
+    background-image: linear-gradient(lightgray, white);
+    height: 600px;
+    overflow: auto;
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    box-shadow: 0px 0px 10px rgb(4, 4, 69);
+}
+
+.user {
+    font-size: 17px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    padding: 10px 0 5px 0;
+    margin-left: 20px;
+}
+
+.message{
+    width: fit-content;
+    max-width: 450px;
+    height: auto;
+    background-image: linear-gradient(to bottom right, rgb(156, 210, 244), lightgrey);
+    border-radius: 20px;
+    padding: 5px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow: wrap;
+    border: 1px solid rgb(155, 155, 155);
+    margin-top: 3px;
+}
+
+.time{
+    font-size: 14px;
+    font-weight: 700;
+    text-align: right;
+
+}
+
+.image img {
+    max-width: 400px;
+    max-height: 400px;
+    margin-left: 20px;
+    border-radius: 20px;
+    
+}
+
+.roomcontainer{
+    display: flex;
+    margin: auto;
+    width: 1200px;
+    margin-top: 50px;
+}
+
+.roomcontrols {
+    background: rgb(85, 85, 106);
+    height: 600px;
+    width: 650px;
+    margin-left: 30px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    box-shadow: 0px 0px 10px rgb(4, 4, 69);
+}
